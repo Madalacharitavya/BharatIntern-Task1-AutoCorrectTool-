@@ -77,3 +77,8 @@ Feel free to experiment and extend the code as needed for your specific use case
 ## Author
 
 This Auto Correct Tool was created by [NagaCharitavya Madala].
+
+Output(DEMO)
+
+https://github.com/Madalacharitavya/BharatIntern-Task1-AutoCorrectTool-/assets/102969979/a980bdd2-f296-45a4-8070-07e53c0cf746
+
