@@ -82,3 +82,11 @@ Output(DEMO)
 
 https://github.com/Madalacharitavya/BharatIntern-Task1-AutoCorrectTool-/assets/102969979/a980bdd2-f296-45a4-8070-07e53c0cf746
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
